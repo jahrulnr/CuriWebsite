@@ -12,3 +12,5 @@ Script ini hanya projek iseng, jadi tentu saja masih memiliki banyak bug. Sepert
 -- Akhir --<br/>
 Tentu aja, kamu boleh mengembangkan script ini kalo mau.<br/>
 Tapi jangan hilangkan credits ya. Hehe
+
+-- <a href="https://github.com/jahrulnr/CuriWebsite/archive/refs/heads/main.zip">Download</a> --
